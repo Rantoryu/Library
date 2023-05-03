@@ -27,7 +27,7 @@ Start the server
 
 ## 📝 Tech Stack
 
-Python, 
+Python, MySQL
 
 
 ## 👨‍🚀 Show your support
