@@ -23,7 +23,8 @@ Run connection with MySQL Server on 3306 port and Apache on 80, 443 using Xampp 
 
 <a href="https://www.apachefriends.org/pl/index.html" target="_blank"><img align="left" alt="Xampp APP" style="padding-right:10px;" src="https://i.imgur.com/JGZXkY0.png"/></a>
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 Log in to MySQL as the root user:
 
 ```bash
